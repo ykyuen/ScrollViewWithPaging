@@ -2,8 +2,8 @@
 //  MyViewController.h
 //  ScrollViewWithPaging
 //
-//  Created by CECID on 18/05/2010.
-//  Copyright 2010 __MyCompanyName__. All rights reserved.
+//  Created by Yuen Ying Kit on 18/05/2010.
+//  Url: http://ykyuen.wordpress.com/2010/05/22/iphone-uiscrollview-with-paging-example/
 //
 
 #import <UIKit/UIKit.h>
